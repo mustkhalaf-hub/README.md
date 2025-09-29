@@ -39,9 +39,10 @@
 
 ## 📊 GitHub Stats  
 
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustkhalaf&show_icons=true&theme=radical)  
+![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustkhalaf-hub&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustkhalaf&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustkhalaf-hub&layout=compact&theme=radical)
+
 
 ---
 
