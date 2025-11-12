@@ -1,0 +1,1 @@
+last -a | head -n 10  #senaste inloggning
